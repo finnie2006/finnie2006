@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @finnie2006
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently DOing nothing taking a break
+- 🌱 I’m currently ............
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me finniedj.exe#9075
 
