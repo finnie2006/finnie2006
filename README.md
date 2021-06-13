@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @finnie2006
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently ............
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me finniedj.exe#9075
+<?php
+
+use Illuminate\Support\Facades\Route;
+
+Route::get('/', function () {
+    return [
+        'country' => 'Malaysia',
+        'working_on' => ['jeekie.host'],
+        'learning' => ['Javascript', 'Typescript', 'React', 'Node.js', 'Golang', 'Java', 'PHP', 'Laravel'],
+        'tools' => ['MySQL', 'Nginx', 'Docker'],
+        'discord' => [
+            'tag' => 'Zake#4304',
+            'server' => null,
+        ],
+    ];
+});
+
 
 <!---
 finnie2006/finnie2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
