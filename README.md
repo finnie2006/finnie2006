@@ -1,19 +1,3 @@
-<?php
-
-use Illuminate\Support\Facades\Route;
-
-Route::get('/', function () {
-    return [
-        'country' => 'Malaysia',
-        'working_on' => ['jeekie.host'],
-        'learning' => ['Javascript', 'Typescript', 'React', 'Node.js', 'Golang', 'Java', 'PHP', 'Laravel'],
-        'tools' => ['MySQL', 'Nginx', 'Docker'],
-        'discord' => [
-            'tag' => 'Zake#4304',
-            'server' => null,
-        ],
-    ];
-});
 
 
 <!---
