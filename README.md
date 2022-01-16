@@ -1,4 +1,4 @@
-NEW: ![](https://komarev.com/ghpvc/?username=finnie2006)
+[](https://komarev.com/ghpvc/?username=finnie2006)
 ```php
 <?php
 
@@ -8,7 +8,7 @@ Route::get('/', function () {
     return [
         'country' => 'Netherlands',
         'working_on' => ['undefined'],
-        'learning' => ['Javascript','Node.js','Java', 'PHP', 'Laravel'],
+        'learning' => ['Javascript','Node.js','React', 'PHP', 'Laravel'],
         'tools' => ['MySQL', 'Nginx', 'Docker'],
         'discord' => [
             'tag' => 'finniedj.exe#9075',
